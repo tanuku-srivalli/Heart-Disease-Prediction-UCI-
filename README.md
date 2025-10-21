@@ -1,6 +1,6 @@
 # Heart-Disease-Prediction-UCI-
 
-### 1. Introduction and Objectives 🎯
+### 1. Introduction and Objectives
 
 * **Project Goal:** To analyze clinical data from the `heart.csv` dataset and build an accurate Machine Learning model to predict the presence of heart disease in patients.
 * **Target Variable:** `target` (0 = No Disease, 1 = Disease).
