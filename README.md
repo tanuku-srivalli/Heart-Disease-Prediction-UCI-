@@ -48,7 +48,7 @@
 
 ***
 
-###6.Since your entire analysis is complete, your final step is to organize and present your work clearly. Below is the structured outline for your final report or Google Colab notebook, complete with key content for each section.
+### 6.Since your entire analysis is complete, your final step is to organize and present your work clearly. Below is the structured outline for your final report or Google Colab notebook, complete with key content for each section.
 
 ## Final Report Structure for Heart Disease Prediction
 
@@ -100,7 +100,7 @@
 
 ***
 
-### 6. Final Conclusion and Interpretation 🏆
+### 6. Final Conclusion and Interpretation
 
 * **Final Model Accuracy:** State the definitive performance metric: "The final, optimized **Logistic Regression** model achieved a test accuracy of **$0.8525$ (85.25%)** on the unseen test set."
 * **Final Classification Report & Confusion Matrix:** Include the final report and image of the Confusion Matrix. Interpret the results (e.g., "The high Recall and Precision scores indicate the model is effective at identifying both positive and negative cases of heart disease.").
