@@ -4,7 +4,7 @@
 
 * **Project Goal:** To analyze clinical data from the `heart.csv` dataset and build an accurate Machine Learning model to predict the presence of heart disease in patients.
 * **Target Variable:** `target` (0 = No Disease, 1 = Disease).
-* **Target Distribution**:The target variable is relatively balanced, which is ideal for classification modeling:$54\%$ of patients have heart disease ($1$).$46\%$ of patients do not have heart disease ($0$).
+* **Target Distribution**:The target variable is relatively balanced, which is ideal for classification modeling: $54\%$ of patients have heart disease ($1$). $46%$ of patients do not have heart disease ($0$).
 * **Key Deliverables:** Cleaned dataset, Exploratory Data Analysis (EDA) insights, and an optimized classification model.
 
 ***
