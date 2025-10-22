@@ -52,10 +52,11 @@
 
 ## Final Report Structure for Heart Disease Prediction
 
-### 1. Introduction and Objectives 🎯
+### 1. Introduction and Objectives
 
 * **Project Goal:** To analyze clinical data from the `heart.csv` dataset and build an accurate Machine Learning model to predict the presence of heart disease in patients.
 * **Target Variable:** `target` (0 = No Disease, 1 = Disease).
+* **Target Distribution**:The target variable is relatively balanced, which is ideal for classification modeling:$54\%$ of patients have heart disease ($1$).$46\%$ of patients do not have heart disease ($0$).
 * **Key Deliverables:** Cleaned dataset, Exploratory Data Analysis (EDA) insights, and an optimized classification model.
 
 ***
@@ -104,7 +105,7 @@
 
 * **Final Model Accuracy:** State the definitive performance metric: "The final, optimized **Logistic Regression** model achieved a test accuracy of **$0.8525$ (85.25%)** on the unseen test set."
 * **Final Classification Report & Confusion Matrix:** Include the final report and image of the Confusion Matrix. Interpret the results (e.g., "The high Recall and Precision scores indicate the model is effective at identifying both positive and negative cases of heart disease.").
-* **Impact:** Conclude by summarizing which clinical factors (based on EDA/correlation) are the most significant predictors, affirming the model's potential utility as a non-invasive screening tool in a healthcare setting. Final Conclusion and Interpretation 🏆
+* **Impact:** Conclude by summarizing which clinical factors (based on EDA/correlation) are the most significant predictors, affirming the model's potential utility as a non-invasive screening tool in a healthcare setting. Final Conclusion and Interpretation
 
 * **Final Model Accuracy:** State the definitive performance metric: "The final, optimized **Logistic Regression** model achieved a test accuracy of **$0.8525$ (85.25%)** on the unseen test set."
 * **Final Classification Report & Confusion Matrix:** Include the final report and image of the Confusion Matrix. Interpret the results (e.g., "The high Recall and Precision scores indicate the model is effective at identifying both positive and negative cases of heart disease.").
