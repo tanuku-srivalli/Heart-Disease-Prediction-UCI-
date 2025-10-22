@@ -9,7 +9,7 @@
 
 ***
 
-### 2. Data Inspection and Cleaning (Task 1: Quality)
+### 2. Data Inspection and Cleaning (Task 1)
 
 * **Data Loading:** Confirm the dataset was loaded correctly and state its shape (e.g., (303, 14)).
 * **Data Quality Check:**
@@ -19,7 +19,7 @@
 
 ***
 
-### 3. Exploratory Data Analysis (EDA)
+### 3. Exploratory Data Analysis (EDA) (Task 2)
 
 * **Target Distribution:** State the class balance (e.g., "The target variable is relatively balanced, with $54\%$ of patients having heart disease (1) and $46\%$ not having it (0).").
 * **Numerical Feature Insights:**
